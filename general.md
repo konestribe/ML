@@ -12,3 +12,6 @@
     - each random variable is ** identically distributed**
   
   
+### 3. law of large numbers
+Let X1, X2 . . . Xn be n independent copies of random variable X. Then the sample mean
+converges in probability to the mean of X.
