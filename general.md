@@ -15,3 +15,7 @@
 ### 3. law of large numbers
 Let X1, X2 . . . Xn be n independent copies of random variable X. Then the sample mean
 converges in probability to the mean of X.
+
+
+### 4. newton's methods
+x1 = x0 - f(x0)/f'(x0)
